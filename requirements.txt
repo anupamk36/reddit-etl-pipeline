@@ -1,0 +1,5 @@
+requests==2.25.1
+click==8.0.1
+google-cloud-bigquery[bqstorage,pandas]==2.18.0
+ratelimit==2.2.1
+google-cloud-secret-manager==2.12.6
